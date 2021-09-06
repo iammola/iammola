@@ -5,7 +5,7 @@
 - :wave: Hi, I’m Ademola
 - :eyes: I’m a Full Stack Web Developer
 - :computer: I’m currently learning VueJS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" title="Vuejs" alt="vuejs" width="16" height="16" />
-- :trophy: Fun Fact: Every 60 second in Africa a minute passes
+- :trophy: Fun Fact: Every 60 seconds in Africa, a minute passes
 
 
 ---
