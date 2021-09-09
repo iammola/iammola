@@ -5,7 +5,7 @@
 - :wave: Hi, I’m Ademola
 - :eyes: I’m a Full Stack Web Developer
 - :computer: I’m currently learning VueJS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" title="Vuejs" alt="vuejs" width="16" height="16" />
-- :trophy: Summary: I can turn my hand to all aspects of a web app from front to back but while competent in all I wouldn't claim to be a master of any individually.
+- :trophy: I can turn my hand to all aspects of a web app from front to back but while competent in all I wouldn't claim to be a master of any individually.
 
 
 ---
