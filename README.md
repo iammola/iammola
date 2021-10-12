@@ -7,6 +7,9 @@
 - :computer: I’m currently learning VueJS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" title="Vuejs" alt="vuejs" width="16" height="16" />
 - :trophy: I can turn my hand to all aspects of a web app from front to back but while competent in all I wouldn't claim to be a master of any individually.
 
+---
+
+[![wakatime](https://wakatime.com/badge/user/40b80e09-3005-45c4-ab6a-3364c0b80fff.svg)](https://wakatime.com/@40b80e09-3005-45c4-ab6a-3364c0b80fff)
 
 ---
 <a href="mailto:a.mola.dev@gmail.com">
