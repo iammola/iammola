@@ -30,4 +30,5 @@ jobs:
           git config --global user.name 'Ademola Adedeji'
           git config --global user.email 'iammola@users.noreply.github.com'
           git commit -am "docs(wakatime): rename stats file 👽"
+          git pull
           git push
