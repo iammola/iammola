@@ -4,6 +4,13 @@
 - <img width="24" height="24" src="./images/gmail.svg"/> Gmail - <a href="mailto:a.mola.dev@gmail.com">a.mola.dev@gmail.com</a>
 - <img width="24" height="24" src="./images/wakatime.svg"/> Wakatime - [@iammola](https://wakatime.com/@iammola)
 
+<p align="center">
+<img align="left" src="./images/wakatime-stats.svg" width="70%" alt="My Wakatime Coding Activity" />
+<img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammola&langs_count=8&layout=compact&custom_title=Most%20Languages%20%on%20GitHub" alt="My most used languages on Github" />
+</p>
+<img src="https://github-readme-stackoverflow.vercel.app/?userID=15350139" alt="My StackOverflow Profile" />
+
+
 ### Resources
 
 ##### Languages
