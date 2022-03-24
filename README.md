@@ -12,7 +12,7 @@
 </p>
 <img src="./images/wakatime-stats.svg" alt="My Wakatime Coding Activity" />
 
-### Resources
+## Resources
 
 ##### Languages
 
