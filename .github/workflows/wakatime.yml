@@ -1,0 +1,18 @@
+name: WakaTime status update
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 1 * * *'
+
+jobs:
+  update-readme:
+    name: Update WakaTime Activity 
+    runs-on: ubuntu-latest
+    steps:
+      - uses: avinal/Profile-Readme-WakaTime@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GITHUB_TOKEN: ${{ github.token }}
+          BRANCH: "master"
+          COMMIT_MSG: "docs(wakatime): update code activity :alien:"
