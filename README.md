@@ -1,3 +1,9 @@
+#### I'm on
+
+- <img width="24" height="24" src="./images/stackoverflow.svg"/> StackOverflow - [@a.mola](https://stackoverflow.com/users/15350139/a-mola)
+- <img width="24" height="24" src="./images/gmail.svg"/> Gmail - <a href="mailto:a.mola.dev@gmail.com">a.mola.dev@gmail.com</a>
+- <img width="24" height="24" src="./images/wakatime.svg"/> Wakatime - [@iammola](https://wakatime.com/@iammola)
+
 ### Resources
 
 ##### Languages
