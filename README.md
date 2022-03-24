@@ -1,4 +1,4 @@
-# Hey, I'm Ademola
+# Hey, I'm Ademola and I'm a Full-Stack Web Developer
 
 #### I'm on
 
