@@ -22,6 +22,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - name: Pull Repo Changes
+        run: git pull --rebase
       - name: Rename file
         run: mv ./images/stat.svg ./images/wakatime-stats.svg
       - name: Commit report
@@ -30,5 +32,4 @@ jobs:
           git config --global user.name 'Ademola Adedeji'
           git config --global user.email 'iammola@users.noreply.github.com'
           git commit -am "docs(wakatime): rename stats file 👽"
-          git pull --rebase
           git push
