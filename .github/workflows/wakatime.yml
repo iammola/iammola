@@ -14,7 +14,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ github.token }}
-          BRANCH: "master"
+          BRANCH: "test/wakatime-commit-config"
           COMMIT_MSG: "docs(wakatime): update code activity 👽"
   rename-stats:
     name: Rename WakaTime Stats File
