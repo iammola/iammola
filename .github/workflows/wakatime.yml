@@ -29,7 +29,7 @@ jobs:
       - name: Commit report
         run: |
           git stage "images/wakatime-stats.svg"
-          git config --global user.name 'Ademola Adedeji'
-          git config --global user.email 'iammola@users.noreply.github.com'
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com"'
           git commit -am "docs(wakatime): rename stats file 👽"
           git push
